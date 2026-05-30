@@ -39,17 +39,6 @@ This project helped me learn:
 * Website Layout Creation
 * UI Development
 
-## 📸 Screenshots
-
-Add screenshots here.
-
-```md
-![Homepage](images/ScreenShots/Screenshot%20(103).png)
-![Homepage](images/ScreenShots/Screenshot%20(104).png)
-![Homepage](images/ScreenShots/Screenshot%20(105).png)
-![Homepage](images/ScreenShots/Screenshot%20(106).png)
-```
-
 ## 🔮 Future Enhancements
 
 * Add JavaScript Functionality
